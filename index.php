@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    hello friends
 </body>
 </html>
